@@ -1,0 +1,24 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-10-webhook-createsubscription-returns-the-hmac",
+    "fix/issue-12-proposecertificate-and-approverequest-return",
+    "fix/issue-25-no-loading-skeleton-shown-while-qr-codes-are",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-10-webhook-createsubscription-returns-the-hmac": "main",
+    "fix/issue-12-proposecertificate-and-approverequest-return": "main",
+    "fix/issue-25-no-loading-skeleton-shown-while-qr-codes-are": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-10-webhook-createsubscription-returns-the-hmac",
+    "fix/issue-12-proposecertificate-and-approverequest-return",
+    "fix/issue-25-no-loading-skeleton-shown-while-qr-codes-are",
+    "origin"
+  ]
+}
